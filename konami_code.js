@@ -11,6 +11,8 @@ function init() {
     if (key === code[0]){
       index++;
     }
+    
+    if index ===
   }
   
   
