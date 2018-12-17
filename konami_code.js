@@ -8,4 +8,6 @@ function init() {
     console.log(key);
   }
   
+  document.body.addEventListener('keydown', onKeyDownHandler)
+  
 }
