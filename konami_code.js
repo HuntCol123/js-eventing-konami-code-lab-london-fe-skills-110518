@@ -1,9 +1,9 @@
 const code = [38, 38, 40, 40, 37, 39, 37, 39, 66, 65]
 let index = 0;
 
-const main = document.getElementByTagName('main')
+let main = document.getElementByTagName('main')
  
-main.addEventListener('click', function(event) {
+main.addEventListener('keydown', function(event) {
   alert('I was clicked!')
 })
 
