@@ -10,6 +10,7 @@ function init() {
   
   document.body.addEventListener('keydown', onKeyDownHandler)
   
+  
 }
 
 init();
@@ -17,4 +18,4 @@ init();
 
 
 
-// desired order: 38, 38, 40, 40, 37, 39, 37, 39, 
+// desired order: 38, 38, 40, 40, 37, 39, 37, 39, 66, 65
