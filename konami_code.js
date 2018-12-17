@@ -14,6 +14,8 @@ if index === code.length {
   index = 0;
 
 }  
+} else {
+  index = 0;
 }
 
 
