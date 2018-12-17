@@ -4,6 +4,8 @@ function init() {
   // Write your JavaScript code inside the init() function
   function onKeyDownHandler (e) {
     console.log(e);
+    const key = parseInt(e.detail || e.which);
+    console.log(key);
   }
   
 }
