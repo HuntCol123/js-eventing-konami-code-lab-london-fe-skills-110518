@@ -8,7 +8,7 @@ function init() {
     const key = parseInt(e.detail || e.which);
     console.log(key);
     
-    if (key === code[0]){
+    if (key === code[index]){
       index++;
     }
     
@@ -23,7 +23,3 @@ function init() {
 
 init();
 
-
-
-
-// desired order: 38, 38, 40, 40, 37, 39, 37, 39, 66, 65
