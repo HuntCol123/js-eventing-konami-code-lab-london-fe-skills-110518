@@ -17,4 +17,4 @@ init();
 
 
 
-// desired order: 38, 38, 40, 40, 
+// desired order: 38, 38, 40, 40, 37, 39, 37, 39, 
