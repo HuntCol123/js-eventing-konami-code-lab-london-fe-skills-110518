@@ -9,21 +9,6 @@ main.addEventListener('keydown', function(event) {
 
 function init() {
   // Write your JavaScript code inside the init() function
-const key = parseInt(e.detail || e.which);
 
-if (key === code[index]) {
-  index ++;
   
-if index === code.length {
-  alert("Well Done!");
-  
-  index = 0;
-
-}  
-} else {
-  index = 0;
-}
-
-
-
 }
