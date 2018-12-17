@@ -6,6 +6,7 @@ function init() {
     console.log(e);
     const key = parseInt(e.detail || e.which);
     console.log(key);
+    
   }
   
   
